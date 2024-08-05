@@ -1,0 +1,7 @@
+dns.resolver
+shodan
+requests
+argparse
+whois
+python-dotenv
+termcolor
