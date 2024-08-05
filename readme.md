@@ -19,7 +19,7 @@
 
 1. Clone this repository:
    ```
-   git clone https://github.com/JayGaba/info-gatherer.git
+   git clone https://github.com/JayGaba/Information_Gatherer.git
    ```
 
 3. Navigate to the project directory:
