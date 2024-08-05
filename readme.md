@@ -24,7 +24,7 @@
 
 3. Navigate to the project directory:
    ```
-   cd info-gatherer
+   cd Information_Gatherer
    ```
 
 5. Install the required libraries:
